@@ -1,4 +1,4 @@
-# hello
+# hello (in C)
 
 This is my 1st programming assignment in C! Pretty simple, right??
 
