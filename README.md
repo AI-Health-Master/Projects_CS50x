@@ -21,8 +21,5 @@ The course has a strong focus on algorithms and hands-on programming.
 - `final_project`: [Project Name/Description]
 
 ## Certificate
-![CS50x Certificate](images/cs50x_certificate.png)
+![CS50x Certificate](/images/Certificat_CS50x_letter.png)
 
-
-## Contact
-[Your email or LinkedIn]
