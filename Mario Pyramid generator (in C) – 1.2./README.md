@@ -9,10 +9,5 @@ A simple C program that prompts the user for the height of a pyramid (an integer
 - **Nested loops:** Printing rows and columns to generate the pyramid pattern
 - **Iteration and algorithmic thinking:** Practicing iteration and basic algorithmic thinking in C
 
-Sample Output (height = 5):
 
-#
-##
-###
-####
-#####
+<img width="240" height="220" alt="image" src="https://github.com/user-attachments/assets/5ce53602-99c0-4d56-8a69-bb17b8d0c662" />
