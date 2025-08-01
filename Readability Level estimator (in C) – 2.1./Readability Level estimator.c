@@ -21,7 +21,7 @@ int main(void)
     w = count_words(t);
     scs = count_sentences(t);
 
-
+    // CALCULATE COLEMAN-LIAU INDEX
     g = round((0.0588 * ((l * 100) / w)) - 0.296 * ((scs * 100) / w) - 15.8);
 
 
@@ -42,7 +42,7 @@ int main(void)
 }
 
 
-
+// DETERMINE NUMBER OF LETTERS
 int count_letters(string s)
 {
     int n = 0;     //NUMBERS OF LETTERS
@@ -61,7 +61,7 @@ int count_letters(string s)
 
 
 
-
+// DETERMINE NUMBER OF WORDS
 int count_words(string s)
 {
     int n = 1;       // NUMBER OF WORDS
@@ -78,7 +78,7 @@ int count_words(string s)
 
 
 
-
+// DETERMINE NUMBER OF SENTENCES
 int count_sentences(string s)
 {
     int n = 0;          // NUMBER OF SENTENCES
