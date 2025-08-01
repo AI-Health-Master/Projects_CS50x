@@ -6,7 +6,7 @@ This C program prompts the user for their name and prints a personalized greetin
 
 Feel free to try!
 
-## Skills and Learning
-•	Captured and stored user input
-•	Used printf with format specifiers to display personalized messages
-•	Used the command line to compile (make hello) and run (./hello) C programs
+### Skills and Learning
+-	Captured and stored user input
+-	Used printf with format specifiers to display personalized messages
+-	Used the command line to compile (make hello) and run (./hello) C programs
