@@ -10,4 +10,7 @@ A simple C program that prompts the user for the height of a pyramid (an integer
 - **Iteration and algorithmic thinking:** Practicing iteration and basic algorithmic thinking in C
 
 
-<img width="240" height="220" alt="image" src="https://github.com/user-attachments/assets/5ce53602-99c0-4d56-8a69-bb17b8d0c662" />
+<img width="263" height="200" alt="image" src="https://github.com/user-attachments/assets/7aa9436d-153d-4296-9b86-9e87769946d0" />
+
+
+
