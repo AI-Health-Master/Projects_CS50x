@@ -6,9 +6,11 @@ A C program that prompts the user for a monetary amount of change owed (in dolla
 •	Practiced user input validation, floating-point conversion, and modular arithmetic for efficient problem-solving
 
 
-###Sample Output:
+##Sample Output:
 
 Change owed: 0.43
+
 6
+
 (Indicating 1 quarter, 1 dime, 1 nickel, and 2 pennies for a total of 6 coins)
 
