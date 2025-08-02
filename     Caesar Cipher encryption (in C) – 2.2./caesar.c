@@ -10,9 +10,9 @@ int main(int argc, string argv[])    // COMMMAND LINE ARGUMENT
     if (argc == 2)                       // COUNTING COMMAND LINE ARGUMENT, AND CHECK IF argc == 2
     {
 
-        for (; n < strlen(argv[1]);)                 // VALIDATING THE KEY  (THE KEY = A INTEGER?)    48 is the ASCII code for '0' and 57 is the ASCII code for '9'
+        for (; n < strlen(argv[1]);)                 // VALIDATING THE KEY  (THE KEY = A INTEGER?)    
         {
-            if (argv[1][n] >= 48 && argv[1][n] <= 57)
+            if (argv[1][n] >= 48 && argv[1][n] <= 57)          // 48 is the ASCII code for '0' and 57 is the ASCII code for '9'
             {
                 n++;
             }
@@ -46,7 +46,7 @@ int main(int argc, string argv[])    // COMMMAND LINE ARGUMENT
 
 
 
-    string PT = get_string("plaintext: ");                    // USER'S INPUT
+    string PT = get_string("plaintext: ");                    // USER'S INPUT: CAPTURE THE PLAIN TEXT TO CIPHER
 
     for (int m = 0 ; m <= strlen(PT) ; m++)                   // CYPHER
     {
@@ -66,6 +66,6 @@ int main(int argc, string argv[])    // COMMMAND LINE ARGUMENT
     }
 
 
-    printf("ciphertext: %s\n", PT);                           // RESULTS
+    printf("ciphertext: %s\n", PT);                           // RESULTS: DISPLAY THE CIPHERED TEXT
     return 0;
 }
