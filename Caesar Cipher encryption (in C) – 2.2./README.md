@@ -11,7 +11,10 @@ A C program that implements the Caesar cipher, a simple encryption technique. Th
 
 
 ### Sample Output:
+
 $ ./caesar 10
+
 plaintext:  Meet me at the park at eleven am
+
 ciphertext: Woon wo kd dro zkbu kd ovofox kw
 
