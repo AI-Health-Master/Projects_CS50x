@@ -12,7 +12,7 @@ A C program that simulates a plurality election. Candidate names are provided as
 
 
 ### Sample Output:
-*One try*\
+*One try*
 ```bash
 $ ./plurality Jacques Bill John
 Number of voters: 5
@@ -22,11 +22,11 @@ Vote: Bill
 Vote: Bill
 Vote: Jacques
 
-Jacques\
+Jacques
 Bill 
 ```
 
-*One try*\
+*One try*
 ```bash
 $ ./plurality Jacques Bill
 Number of voters: 4
