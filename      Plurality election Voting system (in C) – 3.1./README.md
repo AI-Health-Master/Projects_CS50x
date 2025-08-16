@@ -1,19 +1,19 @@
 # Plurality election Voting system 
-A C program that simulates a plurality election. The program takes candidate names as command-line arguments, then prompts the user for the number of voters and their votes. It updates vote counts for each candidate and determines the winner(s), which is the candidate with the highest number of votes. If there’s a tie, all winners are printed.
-
+A C program that simulates a plurality election. Candidate names are provided as command-line arguments; the program then prompts for the number of voters and each vote, tallies the results, and prints the winner(s). The winner is the candidate with the highest vote count; in case of a tie, all winners are printed.
 
 
 ## Key Concepts:
 -	String comparison (strcmp) and command-line argument handling
--	Data organization with Structs and arrays in C
+-	Data organization with structs and arrays in C
 -	Implementing vote tallying logic
--	Handling ties and output formatting
+-	Ties handling  and output formatting
 -	Iteration and conditional logic in C
 
 
 
 ### Sample Output:
 *One try*\
+```bash
 $ ./plurality Jacques Bill John\
 Number of voters: 5\
 Vote: Jacques\
@@ -24,9 +24,10 @@ Vote: Jacques
 
 Jacques\
 Bill 
-
+```
 
 *One try*\
+```bash
 $ ./plurality Jacques Bill\ 
 Number of voters: 4\
 Vote: Jacques\
@@ -36,5 +37,5 @@ Vote: Bill \
 Vote: Jacques 
 
 Jacques 
-
+```
 
