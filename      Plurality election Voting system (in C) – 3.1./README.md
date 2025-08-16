@@ -14,21 +14,21 @@ A C program that simulates a plurality election. The program takes candidate nam
 
 ### Sample Output:
 *One try*
-$ ./plurality Jacques Bill John
-Number of voters: 5
-Vote: Jacques
-Vote: John
-Vote: Bill 
-Vote: Bill 
-Vote: Jacques
+$ ./plurality Jacques Bill John\
+Number of voters: 5\
+Vote: Jacques\
+Vote: John\
+Vote: Bill\
+Vote: Bill\
+Vote: Jacques\
 
-Jacques
-Bill 
+Jacques\
+Bill \
 
-*One try*
-$ ./plurality Jacques Bill 
-Number of voters: 4
-Vote: Jacques 
+*One try*\
+$ ./plurality Jacques Bill\ 
+Number of voters: 4\
+Vote: Jacques
 Vote: Helene
 Invalid vote.
 Vote: Bill 
