@@ -10,8 +10,8 @@ I developed practical coding skills through weekly problem sets and a Final Proj
 
 ## Contents
 
-- `pset1`: Mario pyramids, credit card validation (in C)
-- `pset2`: Ciphers (in C)
+- `pset1`: Mario pyramids generator,	Cash Coin change  (in C)
+- `pset2`:  Readability Level estimator, Caesar Cipher encryption (in C)
 - `pset3`: Voting algorithms (in C)
 - `pset4`: Forensics and memory (in C)
 - `pset5`: Spell checker with hash tables (in C)
