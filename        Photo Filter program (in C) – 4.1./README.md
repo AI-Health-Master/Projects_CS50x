@@ -27,6 +27,6 @@ A C program that applies image filters to bitmap (BMP) files. Implemented graysc
 
   
 ```
-![Original](AI-Health-Master/Projects_CS50x/       Photo Filter program (in C) – 4.1./filter/images/Output/yard-grayscale.bmp)
+![Original](/images/Output/yard-grayscale.bmp)
 
-![Original](AI-Health-Master/Projects_CS50x/       Photo Filter program (in C) – 4.1./filter/images/yard.bmp)
+![Original](/images/yard.bmp)
