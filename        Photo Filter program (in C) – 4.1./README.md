@@ -22,8 +22,10 @@ A C program that applies image filters to bitmap (BMP) files. Implemented graysc
   - Horizontal reflection  
   - Blur filter  
 
+Eg with Grayscale filter (-g)
+
 ```bash
-  $ ./filter -g images/yard.bmp out.bmp
+  $ ./filter -g images/yard.bmp yard-grayscale.bmp
 
   
 ```
