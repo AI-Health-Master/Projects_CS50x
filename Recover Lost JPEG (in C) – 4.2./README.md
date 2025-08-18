@@ -38,8 +38,8 @@ gcc recover.c -o recover
 
 02 of the 50 images recovered just as eg. The other are in the attached "recovered image" folder
 
-![Images](/images/recovered images sample for 4.2 Recover/000.jpg)
+![Images](/images/recovered%20images%20sample%20for%204.2%20Recover/000.jpg)
 
-![Images](/images/recovered images sample for 4.2 Recover/002.jpg)
+![Images](/images/recovered%20images%20sample%20for%204.2%20Recover/002.jpg)
 
-![Images](/images/recovered images sample for 4.2 Recover/007.jpg)
+![Images](/images/recovered%20images%20sample%20for%204.2%20Recover/007.jpg)
