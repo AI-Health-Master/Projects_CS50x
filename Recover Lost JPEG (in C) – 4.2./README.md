@@ -1,4 +1,4 @@
-# Recover Lost JPEG Files from Memory Card
+# Recover Lost JPEG images files from Memory card
 
 ### Description 
 A C program that **recovers JPEG images from a raw memory card dump**. The program reads the raw data sequentially in 512-byte blocks, detects JPEG headers byte signatures that mark the start of a JPEG file, and reconstructs each image by writing consecutive blocks until the following header is found. Each recovered image is saved sequentially to a new file (`000.jpg`, `001.jpg`, …) until the end of the dump.
