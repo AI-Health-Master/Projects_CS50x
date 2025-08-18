@@ -4,9 +4,11 @@ Projects in C, or Python, JavaScript, HTML, CSS
 
 # CS50x: Introduction to Computer Science (HarvardX, 2020)
 
+
 ## Overview
-This repository contains my HarvardX's CS50x 2020 problem sets and Final Project. 
+This repository contains my  [HarvardX's CS50x 2020](https://cs50.harvard.edu/college/2020/fall/syllabus/) problem sets and Final Project. 
 I developed practical coding skills through weekly problem sets and a Final Project, using C, Python, SQL, and JavaScript. All code and project submissions are available in this repository.
+
 
 ## Contents
 
