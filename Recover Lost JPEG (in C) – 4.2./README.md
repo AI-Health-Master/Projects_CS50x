@@ -36,7 +36,7 @@ gcc recover.c -o recover
 # outputs: 000.jpg, 001.jpg, 002.jpg, ...
 ```
 
-02 of the 50 images recovered just as eg. The other are in the attached "recovered image" folder
+Eg: 02 of the 50 images recovered just as eg. The other are in the attached "recovered image" folder
 
 ![Images](/images/recovered%20images%20sample%20for%204.2%20Recover/000.jpg)
 
