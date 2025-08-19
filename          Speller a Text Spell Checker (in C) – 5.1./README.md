@@ -1,5 +1,5 @@
 
-# 5 · Speller —  Dictionary-Based Text Spell Checking Program with Hash Tables
+# Speller —  Dictionary-Based Text Spell Checking Program with Hash Tables
 
 ### Description 
 A C program that implements a **dictionary-based spell checker**. The program loads a dictionary into memory using a hash table, then checks words in a given text file against the dictionary. It reports all misspelled words, along with statistics on dictionary loading time, text checking, and memory usage.
