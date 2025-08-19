@@ -18,6 +18,7 @@ A C program that implements a **dictionary-based spell checker**. The program lo
 - **Algorithmic complexity (O(1) average lookup time)** and performance tradeoffs  
 
  
+ The main C file is speller.c
 
 **Sample Output**
 ```bash
