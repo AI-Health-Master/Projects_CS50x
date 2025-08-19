@@ -12,14 +12,14 @@ Projects in C
 This repository contains my  [HarvardX's CS50x 2020](https://cs50.harvard.edu/college/2020/fall/syllabus/) programming projects. 
 I developed practical coding skills through weekly problem sets and a Final Project, using C, Python, SQL, and JavaScript. 
 
-⚡ Languages Covered
+**⚡ Languages Covered**
 
 This repository (Part 1) contains all codes and project in **C**
 
 Another repository (Part 2) contains the remaining projects in: **Python, SQL, JavaScript, HTML, CSS**
 
 
-Topics covered 
+**Topics covered** 
 
 📚 Topics Covered in this first part include: (Weeks 1–5)
 
