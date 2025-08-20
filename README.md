@@ -6,7 +6,7 @@ Projects in C
 
 
 # CS50x: Introduction to Computer Science (HarvardX, 2020)
-
+**Completed in Septembre 2020**
 
 ## Overview
 This repository contains my  [HarvardX's CS50x 2020](https://cs50.harvard.edu/college/2020/fall/syllabus/) programming projects. 
