@@ -52,7 +52,7 @@ Another repository (Part 2) contains the remaining projects in: **Python, SQL, J
 - `pset5`: [Speller - a Text spell checker (in C)](/%20%20%20%20%20%20%20%20%20Speller%20a%20Text%20Spell%20Checker%20(in%20C)%20–%205.1./)
 
 \
-[In Part 2](https://github.dev/AI-Health-Master/Projects_CS50x-Part_2/blob/0b2f409bde1c4e45864e4fe57bbcc5a455639fd5/)
+[In Part 2](https://github.dev/AI-Health-Master/Projects_CS50x-Part_2/)
 - `pset6`: DNA Profiling (in Python)
 - `pset7`: Movie Database querying (in SQL); Hogwarts House queries (in Py and SQL)
 - `pset8`: Homepage Basic website (in HTML, CSS, and JavaScript) Website with Flask and JavaScript (Web)
