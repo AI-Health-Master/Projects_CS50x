@@ -19,9 +19,9 @@ This repository (Part 1) contains all codes and project in **C**
 Another repository (Part 2) contains the remaining projects in: **Python, SQL, JavaScript, HTML, CSS**
 
 
-**Topics covered** 
+**📚 Topics covered** 
 
-📚 Topics Covered in this first part include: (Weeks 1–5)
+ Topics Covered in this first part include: (Weeks 1–5)
 
 - Programming fundamentals: variables, loops, conditionals, functions
 
@@ -38,7 +38,7 @@ Another repository (Part 2) contains the remaining projects in: **Python, SQL, J
 - File I/O and debugging: reading/writing files, recovering data, testing edge cases
 
 
-
+\
 
 
 
