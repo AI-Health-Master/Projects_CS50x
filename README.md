@@ -1,14 +1,14 @@
 # Projects_CS50x 
 Projects in C, or Python, JavaScript, HTML, CSS
 
-# Projects_CS50x (Part 1)
+## Projects_CS50x (Part 1)
 Projects in C
 
 
-# CS50x: Introduction to Computer Science (HarvardX, 2020)
+**CS50x: Introduction to Computer Science (HarvardX, 2020)**
 **Completed in Septembre 2020**
 
-## Overview
+### Overview
 This repository contains my  [HarvardX's CS50x 2020](https://cs50.harvard.edu/college/2020/spring/syllabus/) programming projects. 
 I developed practical coding skills through weekly problem sets and a Final Project, using C, Python, SQL, and JavaScript. 
 
@@ -38,12 +38,10 @@ Another repository (Part 2) contains the remaining projects in: **Python, SQL, J
 - File I/O and debugging: reading/writing files, recovering data, testing edge cases
 
 
-\
 
 
 
-
-## Contents
+### Contents
 
 - `pset1`: [Mario pyramids generator (in C)](/%20Mario%20Pyramid%20generator%20(in%20C)%20–%201.2./); [Cash Coin change  (in C)](/%20%20Cash%20Coin%20change%20(in%20C)%20–%201.3./)
 - `pset2`: [Readability Level estimator](/%20%20%20Readability%20Level%20estimator%20(in%20C)%20–%202.1./); [Caesar Cipher encryption (in C)](/%20%20%20%20Caesar%20Cipher%20encryption%20(in%20C)%20–%202.2./)
@@ -60,6 +58,6 @@ Another repository (Part 2) contains the remaining projects in: **Python, SQL, J
 
 
 
-## Certificate
+### Certificate
 ![CS50x Certificate](/images/Certificat_CS50x_letter.png)
 
