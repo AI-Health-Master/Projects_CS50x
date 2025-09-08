@@ -54,7 +54,8 @@ Another repository (Part 2) contains the remaining projects in: **Python, SQL, J
 - `pset6`: DNA Profiling (in Python)
 - `pset7`: Movie Database querying (in SQL); Hogwarts House queries (in Py and SQL)
 - `pset8`: Homepage Basic website (in HTML, CSS, and JavaScript) Website with Flask and JavaScript (Web)
-- `final_project`: Basic NutriCalcul
+- `pset9`: Finance - Stock Trade Website (in Py, HTML, CSS, JS, and SQL), Website with Flask and JavaScript (Web)
+- `final_project`: Basic NutriCalcul (in Py, HTML, CSS, JS, and SQL), Simple website with Flask and JavaScript (Web)
 
 
 
